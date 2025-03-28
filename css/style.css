@@ -1,3 +1,13 @@
+.works {
+  padding: 100px 0;
+}
+.works img {
+  height: 700px;
+  object-fit: cover;
+  display: block;
+  max-width: 100%;
+}
+
 *,
 *::before,
 *::after {
