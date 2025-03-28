@@ -1,0 +1,10 @@
+.works {
+  padding: 100px 0;
+
+  & img {
+    height: 700px;
+    object-fit: cover;
+    display: block;
+    max-width: 100%;
+  }
+}
